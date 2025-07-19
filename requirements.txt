@@ -18,3 +18,5 @@ sentence_transformers
 langchain-pinecone
 langchain_experimental
 pymilvus
+rank-bm25
+docx
