@@ -20,3 +20,5 @@ langchain_experimental
 pymilvus
 rank-bm25
 docx
+wikipedia
+youtube_search
