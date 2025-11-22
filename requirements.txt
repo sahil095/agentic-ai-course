@@ -22,3 +22,5 @@ rank-bm25
 docx
 wikipedia
 youtube_search
+chromadb
+langchain_chromadb
